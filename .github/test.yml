@@ -1,0 +1,11 @@
+urls:
+  - url: https://example.com
+    value: example_value_1
+  - url: https://test.com
+    value: test_value_1
+  - url: https://sample.org
+    value: sample_value_1
+  - url: https://demo.net
+    value: demo_value_1
+  - url: https://example.com/page
+    value: example_value_2
